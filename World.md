@@ -87,9 +87,9 @@ The world handed to the 22nd century will not be a utopia, but something more re
 
 ## **THE GREEN THREAD**
 
-By 2028, the world's green parties were fragments. Corporate surveillance had corralled the protest routes, criminalized the flash mobs, co-opted the moderate wings. The radicals who remained went to ground — not into bunkers, but onto rooftops.
+By 2028, the world's green parties were fragments. Corporate surveillance had corralled the protest routes, criminalized the flash mobs, co-opted the moderate wings. The radicals who remained went to ground — into the margins where surveillance was weakest.
 
-They called themselves the Thread. Not an army but a mesh, passing clarity hand to hand across the skylines of damaged cities. Their strength was not in numbers but in the simple refusal to look away when others found it easier to scroll past the next outage, the next storm-surge headline, the next algorithm designed to sell them comfort instead of truth.
+They called themselves the Thread. Not an army but a mesh, passing clarity hand to hand through the forgotten spaces of damaged cities. Their strength was not in numbers but in the simple refusal to look away when others found it easier to scroll past the next outage, the next storm-surge headline, the next algorithm designed to sell them comfort instead of truth.
 
 ## **The Green Thread - Cell Structure**
 
@@ -109,19 +109,19 @@ These weren't slogans but ritual — the Verdant Accords, stripped to their bone
 
 ## **The Cloaks**
 
-Storm gray-green, faded from years of rain and roof-work. The color itself was inheritance — green parties that had shed ballots for ballast, ideology worn into practicality. Not a uniform but a choice, visible enough for street-recognition but muted enough to slip past the corporate sensors that flagged bright colors as disruption-risk.
+Storm gray-green, faded from years of rain and fieldwork. The color itself was inheritance — green parties that had shed ballots for ballast, ideology worn into practicality. Not a uniform but a choice, visible enough for recognition but muted enough to slip past the corporate sensors that flagged bright colors as disruption-risk.
 
 Worn loose or fastened at the collar, hoods pinned or hanging free. Each cloak carried its own history: patches from flooded neighborhoods where the Thread ran supply lines, burn-marks from overcharged spoofing gear, liner-cloth thin enough to tuck seed packets and data chips into hidden folds. The fabric itself became a commons — shared, traded, inherited across cells.
 
-## **The Rooftop Commons**
+## **The Hidden Commons**
 
-Where power lines met satellite dishes, where storm-drains pooled into makeshift cisterns, the Thread cultivated spaces between surveillance sweeps. Micro-gardens in old planters, solar patches that doubled as charging stations, tool-caches hidden in HVAC housings.
+Where surveillance gaps met abandoned infrastructure, where storm damage created new hiding places, the Thread cultivated spaces between corporate sweeps. Micro-gardens in forgotten corners, solar patches that doubled as charging stations, tool-caches hidden in overlooked spaces.
 
-These weren't farms but symbols — proof that broken systems could still nurture life. A handful of tomatoes grown in composted manifesto-paper. Herbs that filtered the air while comms-runners caught their breath. Medicine plants that grew in the shadow of drone patrol-routes. Each garden tended by different hands, but following the same quiet protocol: take what you need, leave more than you found.
+These weren't farms but symbols — proof that broken systems could still nurture life. A handful of tomatoes grown in composted manifesto-paper. Herbs that filtered the air while comms-runners caught their breath. Medicine plants that grew in the shadows where surveillance couldn't follow. Each garden tended by different hands, but following the same quiet protocol: take what you need, leave more than you found.
 
 ## **Cell Structure**
 
-No central charter, no membership rolls. The Thread was federated by trust-networks — repair crews who knew which couriers were reliable, data-runners who recognized the gesture of a hood-adjustment as a safety-signal, lookouts who shared drone-route schedules via hand-drawn maps on coffee-shop napkins.
+No central charter, no membership rolls. The Thread was federated by trust-networks — repair crews who knew which couriers were reliable, data-runners who recognized the gesture of a hood-adjustment as a safety-signal, lookouts who shared patrol schedules via hand-drawn maps on coffee-shop napkins.
 
 Three faces for every operative: civic face for day-jobs and family dinners, repair face for flood-response and grid-watch, rebel face for the work that mattered when the storms came. The goal was not revolution but maintenance — keeping communities upright when the systems tilted toward profit margins.
 
@@ -135,27 +135,27 @@ The work was small, patient, designed to strengthen the commons rather than weak
 
 ## **The Sound of the Movement**
 
-Rain tapping cloak eyelets. Wind through fabric. The soft hiss of spoof-baton charges bleeding into storm-static. These became the audio signatures of preparation and approach — not militant marching rhythms but the weather of resistance passing through cities.
+Rain tapping cloak fabric. Wind through hidden spaces. The soft hiss of spoof-baton charges bleeding into storm-static. These became the audio signatures of preparation and approach — not militant marching rhythms but the weather of resistance passing through forgotten places.
 
 In Kaelen's world, when cloaks gathered for gear-checks and route-planning, the sound was of careful hands and quiet tools. The Thread moved like weather — predictable in pattern, devastating when focused, impossible to stop once it began.
 
 ## **Legacy**
 
-By 2032, the Thread's influence had seeded beyond recognition. Corporate managers found their override codes leaked to tenants' rights groups. Drone patrol schedules mysteriously shifted to avoid relief-kitchen distributions. Emergency supply routes stayed open through "random" grid failures and sensor malfunctions.
+By 2032, the Thread's influence had seeded beyond recognition. Corporate managers found their override codes leaked to tenants' rights groups. Patrol schedules mysteriously shifted to avoid relief-kitchen distributions. Emergency supply routes stayed open through "random" grid failures and sensor malfunctions.
 
-The old green parties had died, but their children were everywhere — rooftop gardeners, emergency medics, courier networks, the small army of maintenance workers who kept cities running while their managers argued about quarterly projections. The Thread had learned the lesson of water: flow around obstacles, seep into cracks, accumulate until the flood could no longer be contained.
+The old green parties had died, but their children were everywhere — community gardeners, emergency medics, courier networks, the small army of maintenance workers who kept communities running while their managers argued about quarterly projections. The Thread had learned the lesson of water: flow around obstacles, seep into cracks, accumulate until the flood could no longer be contained.
 
-They were the inheritance of a movement that had chosen adaptation over extinction. Not the green parties their founders had imagined, but something more durable: a distributed ethic of care, woven into the city's weather, passed on through faded cloaks and whispered protocols, growing in the cracks where surveillance couldn't follow.
+They were the inheritance of a movement that had chosen adaptation over extinction. Not the green parties their founders had imagined, but something more durable: a distributed ethic of care, woven into the community's fabric, passed on through faded cloaks and whispered protocols, growing in the cracks where surveillance couldn't follow.
 
 ---
 
 ## **Visual/Cinematic Integration Notes**
 
-Preparation cues (1-1.5 min): Cloak-fastening as ritual gesture. Seed-packet exchange during gear-checks. Micro-garden tending between action sequences.
+**Preparation cues (1-1.5 min):** Cloak-fastening as ritual gesture. Seed-packet exchange during gear-checks. Micro-garden tending between action sequences.
 
-5-second i2v clips: Cloak hem lifting in wind, revealing inner patches. Hand checking hidden pocket for seed tokens. Rain beading on faded fabric.
+**5-second i2v clips:** Cloak hem lifting in wind, revealing inner patches. Hand checking hidden pocket for seed tokens. Rain beading on faded fabric.
 
-Environmental storytelling: Rooftop gardens visible in background shots. Corporate logos weathered and tagged with Thread symbols. Emergency supply caches hidden in plain sight.
+**Environmental storytelling:** Hidden gardens visible in background shots. Corporate logos weathered and tagged with Thread symbols. Emergency supply caches hidden in plain sight.
 
 This expansion maintains canon consistency while deepening the world's texture, providing rich visual and thematic material for episodes while honoring the practical, weather-worn aesthetic already established.
 
